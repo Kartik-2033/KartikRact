@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KartikRact/static/css/main.e6c13ad2.css",
+    "main.js": "/KartikRact/static/js/main.7eb83f23.js",
+    "static/js/787.7772262b.chunk.js": "/KartikRact/static/js/787.7772262b.chunk.js",
+    "index.html": "/KartikRact/index.html",
+    "main.e6c13ad2.css.map": "/KartikRact/static/css/main.e6c13ad2.css.map",
+    "main.7eb83f23.js.map": "/KartikRact/static/js/main.7eb83f23.js.map",
+    "787.7772262b.chunk.js.map": "/KartikRact/static/js/787.7772262b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7eb83f23.js"
+  ]
+}
